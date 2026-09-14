@@ -118,4 +118,4 @@ async def on_voice_state_update(member, before, after):
         except:
             pass
 
-bot.run("MTU0ODg1MjUxMjk2NTE0MDU0MQ.GfUxAt.aSEH1EAnoS4rAGqSksC5jcVzx-gCiJEgGA71ck")
+bot.run("")
